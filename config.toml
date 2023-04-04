@@ -89,14 +89,14 @@ link = "plugins/google-map/map.js"
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Informational website for the 2023 Joint MRWM and GLRM"
+author = "DrLabRatOry"
 # email address
 email = "demo@vixcon.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analitycs_id = "G-6V8SMMHHZY" # your id
 # search for blog page
 search = true
 
