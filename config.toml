@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://mwrm2023.org"
+baseURL = "https://mwrm2023vixcon.netlify.app"
 title = "2023 Joint Midwest - Great Lakes Regional Meeting"
 theme = "vixcon-hugo"
 # post pagination
