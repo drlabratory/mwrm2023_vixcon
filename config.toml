@@ -158,9 +158,9 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # footer content
-footer_content = "We are a creative-led experiential Event Production Agency that helps brands connect, engage and evolve."
+footer_content = "website brought to you by "
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2023"
 
 
 ################################### French language #####################################
