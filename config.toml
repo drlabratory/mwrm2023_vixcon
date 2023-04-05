@@ -131,24 +131,15 @@ map_marker = "images/marker.png"
 ############################# social icon ############################
 [[params.social]]
 icon = "tf-ion-social-facebook"
-link = "#"
+link = "https://www.facebook.com/AmericanChemicalSociety"
 
 [[params.social]]
 icon = "tf-ion-social-twitter"
-link = "#"
+link = "https://twitter.com/AmerChemSociety"
 
 [[params.social]]
 icon = "tf-ion-social-linkedin"
-link = "#"
-
-[[params.social]]
-icon = "tf-ion-social-pinterest"
-link = "#"
-
-[[params.social]]
-icon = "tf-ion-social-rss"
-link = "#"
-
+link = "https://www.linkedin.com/groups/51209/"
 
 ################################### English language #####################################
 [Languages.en]
