@@ -158,7 +158,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # footer content
-footer_content = "website brought to you by "
+footer_content = "The 2023 Joint Midwest Regional Meeting and Great Lakes Regional Meeting is organized by the St. Louis and East Central sections of the American Chemical Society"
 # copyright
 copyright = "Copyright &copy; 2023"
 
