@@ -23,8 +23,8 @@ timer:
 event:
   enable : true
   title_outline : "event"
-  title : "The New Era of Tech Companies"
-  image_back : "images/about/h1-gallery-img-7.jpg"
+  title : "Scale up your STEM!"
+  image_back : "images/about/stchas_ballroom.jpg"
   image_front : "images/about/main-home-img-1.jpg"
   content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
               auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
