@@ -1,64 +1,42 @@
 schedule:
   enable : true
   title_outline : "schedule"
-  title : "Topic Discussion"
+  title : "Schedule at a Glance"
   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis option."
   schedule_tab:
     ################# tab itam loop ################
     - title : "Day 1"
-      date_time : "13 Nov ,2019 [09.00am - 04.00pm]"
+      date_time : "Wednesday, 18 Oct, 2023"
       schedule_items:
         # schedule loop item
-        - time : "9.00am"
-          image : "images/about/wordpress.png"
+        - time : "4:00pm"
+          image : "images/about/startup.png"
           content : "
           
-          ### Introduction of material Design
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
+          ### Startups
           "
-          
         # schedule loop item
-        - time : "9.00am"
-          image : "images/about/big-data.png"
+        - time : "5:00pm"
+          image : "images/about/ice_cream_social.png"
           content : "
           
-          ### Marketing Matters in design area
+          ### Undergraduate Program
 
-          ###### By Risabh moinul
-
-          Founder of themefisher
+          ###### Ice Cream Social
           "
-          
         # schedule loop item
-        - time : "9.00am"
-          image : "images/about/lunch.jpg"
+        - time : "evening"
+          image : "images/about/flow_chemistry.png"
           content : "
           
-          ### Launch Break
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
+          ### Flow Chemistry
           "
           
-        # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
 
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
           
     ################# tab itam loop ################
     - title : "Day 2"
-      date_time : "14 Nov ,2019 [09.00am - 04.00pm]"
+      date_time : "19 Oct ,2023 [09.00am - 04.00pm]"
       schedule_items:
         # schedule loop item
         - time : "2.00pm"
@@ -98,7 +76,58 @@ schedule:
           
     ################# tab itam loop ################
     - title : "Day 3"
-      date_time : "15 Nov ,2019 [09.00am - 04.00pm]"
+      date_time : "20 Oct, 2023 [09.00am - 04.00pm]"
+      schedule_items:
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/big-data.png"
+          content : "
+          
+          ### Marketing Matters in design area
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/lunch.jpg"
+          content : "
+          
+          ### Launch Break
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/wordpress.png"
+          content : "
+          
+          ### Introduction of material Design
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+        # schedule loop item
+        - time : "2.00pm"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Cultures of Creativity
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          ################# tab itam loop ################
+    - title : "Day 4"
+      date_time : "21 Oct, 2023 [09.00am - 04.00pm]"
       schedule_items:
         # schedule loop item
         - time : "9.00am"
