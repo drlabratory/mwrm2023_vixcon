@@ -5,14 +5,14 @@ banner:
   bg_image: "images/banner/banner-2.png"
   date_time : "October 18 - 21, 2023"
   button:
-    enable : "Discover more"
+    enable : false
     label : "Discover more"
     link : "service"
 
 ########################## timer #################################
 timer:
   enable : true
-  title : "**Count the day** <br> until conference start"
+  title : "**Counting down the** <br> days to the conference"
   # set timer
   year: "2023"
   month: "10"
@@ -35,7 +35,7 @@ event:
 
 ######################### Call to action #########################
 cta:
-  enable : true
+  enable : false
   subtitle : "10% Sale offer for early birds"
   title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
   image : "images/banner/rev-slider-09.png"
@@ -46,7 +46,7 @@ cta:
 
 ############################# Feature ###########################
 feature:
-  enable: true
+  enable: false
   feature_item: 
     # feature item loop
     - name : "Valuable Insight"

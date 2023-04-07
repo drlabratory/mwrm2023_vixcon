@@ -6,7 +6,7 @@ schedule:
   schedule_tab:
     ################# tab itam loop ################
     - title : "Day 1"
-      date_time : "Wednesday, 18 Oct, 2023"
+      date_time : "Wednesday, Oct 18th"
       schedule_items:
         # schedule loop item
         - time : "4:00pm"
@@ -36,47 +36,59 @@ schedule:
           
     ################# tab itam loop ################
     - title : "Day 2"
-      date_time : "19 Oct ,2023 [09.00am - 04.00pm]"
+      date_time : "Thursday, Oct 19th"
       schedule_items:
         # schedule loop item
-        - time : "2.00pm"
+        - time : "all day"
           image : "images/about/creativity.jpg"
           content : "
           
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-
+          ### Organic Chemistry"
         # schedule loop item
-        - time : "9.00am"
+        - time : "all day"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Analytical Chemistry"
+        # schedule loop item
+        - time : "all day"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Biochemistry"
+        # schedule loop item
+        - time : "all day"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Organic Chemistry"
+        # schedule loop item
+        - time : "all day"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Theoretical & Computational Chemistry"
+        # schedule loop item
+        - time : "morning"
           image : "images/about/wordpress.png"
           content : "
           
-          ### Launch Break
+          ### Analytical Chemistry in Micro and Nano
 
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
+          ###### Organized by S Martin"
           
         # schedule loop item
-        - time : "9.00am"
+        - time : "afternoon"
           image : "images/about/big-data.png"
           content : "
           
-          ### Marketing Matters in design area
+          ### Analytical for Environmental Sciences and Chemistry
 
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
+          ###### Organized by K Tucker"
           
     ################# tab itam loop ################
     - title : "Day 3"
-      date_time : "20 Oct, 2023 [09.00am - 04.00pm]"
+      date_time : "Friday, Oct 20th"
       schedule_items:
         # schedule loop item
         - time : "9.00am"
@@ -127,7 +139,7 @@ schedule:
           "
           ################# tab itam loop ################
     - title : "Day 4"
-      date_time : "21 Oct, 2023 [09.00am - 04.00pm]"
+      date_time : "Saturday, Oct 21st"
       schedule_items:
         # schedule loop item
         - time : "9.00am"
