@@ -70,12 +70,12 @@ schedule:
 
 ####################### pricing #############################
 pricing:
-  enable : true
+  enable : false
   # pricing data comes from "pricing.yml" file
 
 ########################## speaker ##########################
 speaker:
-  enable : true
+  enable : false
   title_outline : "Speakers"
   title : "Who're speaking"
   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
@@ -161,9 +161,9 @@ sponsor:
 venue:
   enable : true
   title : "Venue location"
-  image : "images/bg/cta-bg.jpg"
-  date : "18 - 21 December, 2019"
-  location : "85 Golden Street, Darlinghurst <br>ERP 2019, United States"
+  image : "images/bg/stchcc_entrance.jpg"
+  date : "October 18 - 21, 2023"
+  location : "1 Convention Center Plz St. Charles MO, 63303"
   button: 
     enable : true
     label : "View Map location"
@@ -171,7 +171,7 @@ venue:
 
 ############################### Blog ######################################
 blog:
-  enable : true
+  enable : false
   title_outline : "News"
   title : "Latest News"
   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
