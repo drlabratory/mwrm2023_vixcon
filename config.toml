@@ -50,6 +50,11 @@ link = "plugins/google-map/map.js"
   weight = 2
     
   [[menu.main]]
+  name = "Exposition"
+  URL = "exposition"
+  weight = 3
+
+  [[menu.main]]
   name = "About"
   URL = "about"
   weight = 4
