@@ -69,15 +69,15 @@ link = "plugins/google-map/map.js"
   name = "Pages"
   hasChildren = true
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Tickets"
-    URL = "pricing"
+    #[[menu.main]]
+    #parent = "Pages"
+    #name = "Tickets"
+    #URL = "pricing"
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Blog"
-    URL = "blog"
+    #[[menu.main]]
+    #parent = "Pages"
+    #name = "Blog"
+    #URL = "blog"
 
     [[menu.main]]
     parent = "Pages"
