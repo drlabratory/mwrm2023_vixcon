@@ -26,12 +26,13 @@ event:
   title : "Scale up your STEM!"
   image_back : "images/about/purple_beakers.jpg"
   image_front : "images/about/equation_writing.jpg"
-  content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
-              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
+  content : "The 2023 Joint Midwest-Great Lakes Regional Meeting of the American Chemical Society (MWGLRM 2023) will be held Wednesday to Saturday, October 18-21, 2023, in St. Louis, Missouri. Co-hosts for this meeting are the St. Louis and East Central Illinois Sections of the ACS. The venue will be the St. Charles Convention Center.
+<br><br>
+The theme of the meeting is Scale Up Your STEM, and features a program designed to energize you to take your pursuits to the next level. MWGLRM 2023 will feature a full range of technical symposia of the latest scientific research, poster sessions highlighting student research, workshops designed by and for high school chemistry teachers, an Exposition, an Awards Banquet, and much more!"
   button:
     enable : true
-    label : "Discover More"
-    link : "service"
+    label : "Register & Submit Abstract"
+    link : "https://www.acs.org/meetings/regional/midwest.html#:~:text=The%202023%20Joint%20Midwest%20%E2%80%93%20Great,Illinois%20Sections%20of%20the%20ACS."
 
 ######################### Call to action #########################
 cta:
