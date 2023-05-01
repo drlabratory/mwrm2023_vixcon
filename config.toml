@@ -60,14 +60,14 @@ link = "plugins/google-map/map.js"
   weight = 4
     
   [[menu.main]]
+  name = "Awards"
+  URL = "awards"
+  weight = 5
+  
+  [[menu.main]]
   name = "About"
   URL = "about"
   weight = 7
-  
-  [[menu.main]]
-  name = "Speakers"
-  URL = "speaker"
-  weight = 8
 
   [[menu.main]]
   weight = 9
