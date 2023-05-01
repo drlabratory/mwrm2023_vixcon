@@ -45,44 +45,54 @@ link = "plugins/google-map/map.js"
 [menu]
     
   [[menu.main]]
-  name = "About"
-  URL = "about"
+  name = "Schedule"
+  URL = "schedule"
   weight = 2
-  
+    
   [[menu.main]]
-  name = "Speakers"
-  URL = "speaker"
+  name = "Exposition"
+  URL = "exposition"
   weight = 3
 
   [[menu.main]]
+  name = "Awards"
+  URL = "awards"
   weight = 4
-  name = "Pages"
-  hasChildren = true
+  
+  [[menu.main]]
+  name = "St. Louis FAQ"
+  URL = "travel"
+  weight = 5
+  
+  #[[menu.main]]
+  #name = "About"
+  #URL = "about"
+  #weight = 7
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Tickets"
-    URL = "pricing"
+  #[[menu.main]]
+  #weight = 9
+  #name = "Pages"
+  #hasChildren = true
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Blog"
-    URL = "blog"
+    #[[menu.main]]
+    #parent = "Pages"
+    #name = "Tickets"
+    #URL = "pricing"
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Schedule"
-    URL = "schedule"
+    #[[menu.main]]
+    #parent = "Pages"
+    #name = "Blog"
+    #URL = "blog"
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "FAQ"
-    URL = "faq"
+    #[[menu.main]]
+    #parent = "Pages"
+    #name = "FAQ"
+    #URL = "faq"
     
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 5
+  weight = 10
 
 #################### default parameters ################################
 [params]
