@@ -156,7 +156,7 @@ sponsor:
     title : "Want to be a sponsor ?"
     #button
     label : "apply now"
-    link : "#"
+    link : "mailto:exhibits@mwrm2023.org"
 
 ################################ venue ########################
 venue:
