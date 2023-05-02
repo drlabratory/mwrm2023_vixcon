@@ -2,12 +2,37 @@
 exposition:
   enable : true
   #image : "images/bg/ctg.jpg"
-  title : "Information for **Sponsors**"
+  title : "Sponsor & Exhibitor **Information**"
   content : "The 57th Midwest/50th Great Lakes Joint Regional Meeting of the American Chemical Society will be held in St Louis, October 18-21, 2023, at the St Charles Convention Center.
   <br><br>
   We expect over 1,000 chemical scientists and professionals to attend. Our outstanding line-up of technical programs and networking opportunities will attract chemists from industrial, academic and government laboratories, as well as high schools, medical schools and more.  
   <br><br>
-  We have space for 50 exhibitors, and will share space with posters and food breaks, ensuring maximum exposure for your company. The cost will be $900 for a booth, which includes meeting registrations for two people.  A reduced price of $400 applies to academic exhibitors, but only one meeting registration is included.  Sponsorships are also available at al levels, including:
+  We have space for 50 exhibitors, and will share space with posters and food breaks, ensuring maximum exposure for your company. The cost will be $900 for a booth, which includes meeting registrations for two people.  A reduced price of $400 applies to academic exhibitors, but only one meeting registration is included. Expo locations will be assigned on a “first paid, first choice” basis.  If you want a prime location for your table, submit your payment as soon as possible. 
+  <br><br>
+  Sponsorships are available at four different levels or can be applied to specfic conference events. Specific sponsorship options are listed below.
+  <br><br>
+For more information on any of these opportunities contact Lisa Balbes at lisa@balbes.com. 
+<br><br>
+We look forward to working with you.  
+<br><br>
+Lisa Balbes, Expo Co-Chair, Industry
+<br> Serenity Desmond, Expo Co-Chair, Academia"
+
+
+################## sponsor opportunities #################################
+sponsorop:
+  enable : true
+  #image : "images/bg/ctg.jpg"
+  title : "Sponsorship **Opportunities**"
+  content : "**Flerovium Level ($10,000):** includes one free booth in the Expo, four free meeting registrations, acknoledgement in the meeting app and on signage on-site.
+  <br><br>
+  **Platinum Level ($5,000):** includes one free boooth in the Expo, two free meeting registrations, acknoledgement in the meeting app and on signage on-site.
+  <br><br>
+  **Gold Level ($3,500):** includes two free meeting registrations, acknowledgement in the meeting app and on signage on-site. 
+  <br><br> 
+  **Silver Level ($1,000):** includes acknowledgement in the meeting ap and on signage on-site.
+  <br><br>
+  **Individual Event Sponsorships**
 
 * Half-day technical symposium ($500) includes signage at that symposium
 
@@ -23,20 +48,10 @@ exposition:
 
 * Minority Affairs Reception
 
-* In Kind Donations/Giveaways such as key cards, water bottles, pens, bags, etc. can be included in attendee welcome bags or used as door prizes 
+* Diversity Luncheon
 
+* In Kind Donations/Giveaways such as key cards, water bottles, pens, bags, etc. can be included in attendee welcome bags or used as door prizes" 
 
-Expo locations will be assigned on a “first paid, first choice” basis.  If you want a prime location for your table, submit your payment as soon as possible. 
-
-
-For more information on any of these opportunities contact Lisa Balbes at lisa@balbes.com. 
-
-
-I look forward to working with you.  
-
-
-Lisa Balbes
-Expo Co-Chair, Industry"
 ################## sponsor ###############################
 sponsor:
   enable : true
