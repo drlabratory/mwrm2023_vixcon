@@ -50,7 +50,7 @@ link = "plugins/google-map/map.js"
   weight = 2
     
   [[menu.main]]
-  name = "Exposition"
+  name = "Expo & Sponsors"
   URL = "exposition"
   weight = 3
 
@@ -60,7 +60,7 @@ link = "plugins/google-map/map.js"
   weight = 4
   
   [[menu.main]]
-  name = "St. Louis FAQ"
+  name = "Travel FAQ"
   URL = "travel"
   weight = 5
   
