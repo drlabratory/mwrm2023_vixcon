@@ -162,16 +162,3 @@ home = "Home"
 footer_content = "The 2023 Joint Midwest Regional Meeting and Great Lakes Regional Meeting is organized by the St. Louis and East Central Illinois sections of the American Chemical Society"
 # copyright
 copyright = "Copyright &copy; 2023"
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# footer content
-footer_content = "We are a creative-led experiential Event Production Agency that helps brands connect, engage and evolve."
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"

@@ -1,8 +1,95 @@
 schedule:
   enable : true
+  title_overview : "Overview"
+  content_overview : "**TECHNICAL SESSIONS:  CONTRIBUTED TALKS AND POSTERS**
+
+- Analytical Chemistry\n
+- Biochemistry\n
+- Chemical Education\n
+- Inorganic Chemistry\n
+- Macromolecular/Polymer Chemistry\n
+- Medicinal/Pharmaceutical Chemistry\n   
+- Organic Chemistry\n
+- Physical Chemistry\n   
+- Theoretical, Computational, and Data-Driven Modeling Chemistry\n"
+  content_invited : "**SPECIAL SYMPOSIA:  INVITED TALKS**  
+
+1. Analytical Techniques in Environmental Chemistry
+Chair: Kevin Tucker (Southern Illinois University Edwardsville; [kevtuck@siue.edu](mailto:kevtuck@siue.edu))
+
+2. Beyond the Boundaries of Computational Chemistry and Catalysis
+Chair: Alex Mironenko (University of Illinois Urbana-Champaign; [alexmir@illinois.edu](mailto:alexmir@illinois.edu))
+
+3.	Bioprocess Chemistry
+Chair: Jie Dong (Southern Illinois University Edwardsville; [jdong@siue.edu](mailto:jdong@siue.edu))
+
+4.	Biotherapeutic Process Development and Manufacture in the Midwest
+Chair: Steve Kolodziej (Pfizer; [steve.a.kolodziej@pfizer.com](mailto:steve.a.kolodziej@pfizer.com))
+
+5.	Carbohydrates & Glycosylations
+Chair: Cristina De Meo (Southern Illinois University Edwardsville; [cdemeo@siue.edu](mailto:cdemeo@siue.edu))
+
+6.	Chemical Theory Across Scales
+Chairs: Kade Marsden-Head (Washington University in St. Louis; [head-marsden@wustl.edu](mailto:head-marsden@wustl.edu)), Robert Wexler (Washington University in St. Louis; [wexler@wustl.edu](mailto:wexler@wustl.edu))
+
+7.	Electrochemistry
+Chair: Mike Shaw (Southern Illinois University Edwardsville; [michsha@siue.edu](mailto:michsha@siue.edu))
+
+8.	Environmental Chemistry in Agriculture
+Chair: Leah Riter (Bayer; [leah.riter@bayer.com](mailto:leah.riter@bayer.com))
+
+9.	Flow Chemistry
+Chair: Todd Stark (API Innovation Center; [todd.m.stark@gmail.com](mailto:todd.m.stark@gmail.com))
+
+10.	From Clear Flasks to Green Fields: Utilizing a Sustainability Mindset in Agrochemical Active Ingredient Development
+Chair: Justin Struble (Bayer; [justin.struble@bayer.com](mailto:justin.struble@bayer.com))
+
+11.	Innovative Analytical Measurements at the Micro and Nano Scale
+Chair: Scott Martin (Saint Louis University; [scott.martin@slu.edu](mailto:scott.martin@slu.edu))
+
+12.	Nucleic Acids
+Chair: John-Stephen Taylor (Washington University in St. Louis; [taylor@wustl.edu](mailto:taylor@wustl.edu))
+
+13.	Organic Reaction Mechanisms
+Chair: Yun Lu (Southern Illinois University Edwardsville; [yulu@siue.edu](mailto:yulu@siue.edu))
+
+14.	Organic Solids
+Chair: Ryan Groeneman (Webster University; [ryangroeneman19@webster.edu](mailto:ryangroeneman19@webster.edu))
+
+15.	Organometallic Catalysis Research at PUIs
+Chair: Jocelyn Lanorio (Illinois College; [jocelyn.lanorio@ic.edu](mailto:jocelyn.lanorio@ic.edu))
+
+16.	Medicinal Chemistry & Chemical Biology: Discovering New Biology and New Drugs Through Chemistry
+Chairs: Marv Meyers (Saint Louis University; [marvin.j.meyers@slu.edu](mailto:marvin.j.meyers@slu.edu)), Mike Crider (Southern Illinois University Edwardsville; [mcrider@siue.edu](mailto:mcrider@siue.edu))
+
+17.	Process Development in Industry: Solving Problems
+Chair: Michael Tracey (Cambrex; [Michael.Tracey@CAMBREX.com](mailto:Michael.Tracey@CAMBREX.com))
+
+18.	Proteins and Lipids
+Chair: James Bashkin (University of Missouri – Saint Louis; [bashkinj@umsl.edu](mailto:bashkinj@umsl.edu))
+
+19.	Probing Biological Chemistry
+Chair: Michael Beck (Eastern Illinois University; [mbeck2@eiu.edu](mailto:mbeck2@eiu.edu))
+
+20.	Radiochemistry: From Radioactivity to Drug Product
+Chair: Mike Nickels (Washington University in St. Louis; [mnickels@wustl.edu](mailto:mnickels@wustl.edu))
+
+21.	Safety in the Undergraduate Lab
+Chair: Sue Wiediger (Southern Illinois University Edwardsville; [swiedig@siue.edu](mailto:swiedig@siue.edu))
+
+22.	Solid State NMR in Industry, Medicine and Academe
+Chair: Sophia Hayes (Washington University in St. Louis; [hayes@wustl.edu](mailto:hayes@wustl.edu))
+
+23.	Sustainable Transition Metal Catalysis
+Chair: Jamie Neely (Saint Louis University; [jamie.neely@slu.edu](mailto:jamie.neely@slu.edu))
+
+24.	Synthesis and Characterization for Functional Polymeric Materials
+Chairs: Alexa Kuenstler (University of Illinois Urbana-Champaign; [akuenstl@illinois.edu](mailto:akuenstl@illinois.edu)), Whitney Loo (University of Wisconsin-Madison; [wloo@wisc.edu](mailto:wloo@wisc.edu))
+
+25.	To Flip or Not to Flip? How to Maintain Students' Attention Post-Pandemic
+Chair: José Andino Martínez (University of Illinois Urbana-Champaign; [andinoma@illinois.edu](mailto:andinoma@illinois.edu))"
   title_outline : "schedule"
   title : "Schedule at a Glance"
-  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis option."
   schedule_tab:
     ################# tab itam loop ################
     - title : "Day 1"
