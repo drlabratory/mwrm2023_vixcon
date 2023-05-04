@@ -2,71 +2,57 @@
 timer:
   enable : true
   title : "**Count the day** <br>until conference start"
-  content : "Our intensive 2-day business conferences will teach you the specific steps and proven systems you need to implement and grow your business. We hope you’ll join us!"
+  #content : "Our intensive 2-day business conferences will teach you the specific steps and proven systems you need to implement and grow your business. We hope you’ll join us!"
   # timer value comes from "homepage.yml" file
 
 ################################# Pricing ##########################
 pricing:
   enable : true
   title_outline : "Price"
-  title : "Get your Ticket"
-  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  title : "Register early for the discounted rate"
+  #content : "Register early for the discounted rate"
   pricing_table:
     # pricing table loop
-    - title : "Early"
+    - title : "Prices"
       style : "1"
-      price : "70$"
-      icon : "tf-ion-android-bulb"
+      price : "ACS Member"
+      #icon : "tf-ion-android-bulb"
       bg_image : "images/bg/page-header.jpg"
       services:
-        - "Two Days Ticket"
-        - "Coffee & Launch"
-        - "Networking"
-        - "Certificate"
-        - "Gift Box"
-        - "Email listing"
+        - "Professional $100-$120"
+        - "Undergraduate Student $30-$40"
+        - "Graduate Student $30-$40"
+        - "Post-doctoral fellow $50-$60"
+        - "Community College Faculty $40-$50"
+        - "K-12 Teacher $25"
+        - "50-year ACS Member $0"
+        - "Retired/Emeritus/Unemployed $0"
+        - "Spouse/Guest $20-$30"
       button:
         label : "Get now"
-        link : "#"
+        link : "https://www.acs.org/meetings/regional/midwest.html#:~:text=The%202023%20Joint%20Midwest%20%E2%80%93%20Great,Illinois%20Sections%20of%20the%20ACS."
         
     # pricing table loop
-    - title : "Team"
+    - title : "Prices"
       style : "2"
-      price : "250$"
-      icon : "tf-ion-android-hangout"
+      price : "Non-ACS Member"
+      #icon : "tf-ion-android-hangout"
       bg_image : "images/bg/page-header.jpg"
       services:
-        - "Two Days Ticket"
-        - "Coffee & Launch"
-        - "Networking"
-        - "Certificate"
-        - "Gift Box"
-        - "Public ad listing"
-        - "Email listing"
+        - "Professional $120-$140"
+        - "Undergraduate Student $35-$45"
+        - "Graduate Student $35-$45"
+        - "Post-doctoral fellow $75-$85"
+        - "Community College Faculty $50-$60"
+        - "K-12 Teacher $25"
+        - "High School Student $10"
+        - "Spouse/Guest $20-$30"
       button:
         label : "Get now"
-        link : "#"
+        link : "https://www.acs.org/meetings/regional/midwest.html#:~:text=The%202023%20Joint%20Midwest%20%E2%80%93%20Great,Illinois%20Sections%20of%20the%20ACS."
         
-    # pricing table loop
-    - title : "Economic"
-      style : "3"
-      price : "300$"
-      icon : "tf-ion-android-person"
-      bg_image : "images/bg/page-header.jpg"
-      services:
-        - "Two Days Ticket"
-        - "Coffee & Launch"
-        - "Networking"
-        - "Certificate"
-        - "Gift Box"
-        - "Public ad listing"
-        - "Dinner Serve"
-        - "Email listing"
-      button:
-        label : "Get now"
-        link : "#"
         
 ############################## Event ##############################
 event:
-  enable : true
+  enable : false
   # event content comes from "homepage.yml" file
