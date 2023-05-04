@@ -102,7 +102,7 @@ home = "Home"
 description = "Informational website for the 2023 Joint MRWM and GLRM"
 author = "DrLabRatOry"
 # email address
-email = "demo@vixcon.com"
+email = "exhibits@mwrm2023.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
