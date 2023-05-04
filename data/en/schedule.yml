@@ -68,7 +68,7 @@ schedule:
           "
         # schedule loop item
         - time : "evening"
-          image : "images/about/flow_chemistry.png"
+          image : "images/about/exhibit_icon.png"
           content : "### Exhibits Hall Opens
           "
           
@@ -80,13 +80,13 @@ schedule:
       schedule_items:
         # schedule loop item
         - time : "morning"
-          image : "images/about/creativity.jpg"
+          image : "images/about/career_icon.png"
           content : "
           
           ### Career Panel"
         # schedule loop item
         - time : "all day"
-          image : "images/about/creativity.jpg"
+          image : "images/about/technical_session_icon.png"
           content : "
           
           ### Technical Sessions
@@ -94,14 +94,14 @@ schedule:
           #### & Special Symposia"
         # schedule loop item
         - time : "noon"
-          image : "images/about/creativity.jpg"
+          image : "images/about/cma_luncheon_icon.png"
           content : "
           ### Luncheon
           
           #### Committee on Minority Affairs"
         # schedule loop item
         - time : "evening"
-          image : "images/about/creativity.jpg"
+          image : "images/about/award_dinner_icon.png"
           content : "
           ### Midwest Award Reception
           
@@ -113,12 +113,12 @@ schedule:
       schedule_items:
         # schedule loop item
         - time : "morning"
-          image : "images/about/creativity.jpg"
+          image : "images/about/chemistry_breakfast_icon.png"
           content : "
           ### Midwest Regional Board Breakfast"
         # schedule loop item
         - time : "all day"
-          image : "images/about/creativity.jpg"
+          image : "images/about/technical_session_icon.png"
           content : "
           
           ### Technical Sessions
@@ -126,7 +126,7 @@ schedule:
           #### & Special Symposia"
         # schedule loop item
         - time : "noon"
-          image : "images/about/creativity.jpg"
+          image : "images/about/governance_luncheon_icon.png"
           content : "
           ### ACS Governance Lunch
           
@@ -137,7 +137,7 @@ schedule:
       schedule_items:
         # schedule loop item
         - time : "morning"
-          image : "images/about/big-data.png"
+          image : "images/about/highschool_chemistry_icon.png"
           content : "
           ### Workshops and Symposia
 
