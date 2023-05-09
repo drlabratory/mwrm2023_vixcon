@@ -2,71 +2,75 @@
 awards:
   title_outline : "Awards"
   title : "and Nomination Information"
-  content : "The date of the award banquet is TBD."
+  content : "The award banquet will be held on Thursday, October 19th. Details to follow."
   faq_item:
     # faq item loop
     - title : "Division of Chemical Education Region Awards for Excellence in High School Teaching"
-      content : "*Purpose*
-      <br>In 2006, The Division of Chemical Education established an endowment to underwrite an Awards Program designed to recognize, encourage, and stimulate outstanding teachers of high school chemistry in the ten Regions of the American Chemical Society. The Region Award consists of a $1,000 cash award and an engraved plaque. Travel expenses to the meeting at which the Award will be presented will be reimbursed. 
-      <br><br>*Eligibility*
-      <br>Nominees must be actively engaged in the teaching of chemistry or a chemical science in a high school (grades 9-12) on at least a half-time basis. 
-      Additional information and the application details can be found at the following **[LINK](https://www.divched.org/award/divched-region-awards-excellence-high-school-teaching)**. Only complete application portfolios will be considered.
-      <br>
-      <br>*Deadline*
-      <br>Friday, August 25, 2023 
-      <br>
-      <br>*How to Apply*
-      <br>The Excellence in High School Teaching Award package should include: 
-      <br>- Completed nomination form. **[LINK](/MWRM2023_CHEDHSTeach.pdf)** to download Excellence in High School Teaching Award form.
-      <br>- Nominee Statement on Teaching Philosophy
-      <br>- Nominee Current CV
-      <br>- Letters of Support"
+      content : |
+        *Purpose*  
+        In 2006, The Division of Chemical Education established an endowment to underwrite an Awards Program designed to recognize, encourage, and stimulate outstanding teachers of high school chemistry in the ten Regions of the American Chemical Society. The Region Award consists of a $1,000 cash award and an engraved plaque. Travel expenses to the meeting at which the Award will be presented will be reimbursed. 
+        
+        *Eligibility*  
+        Nominees must be actively engaged in the teaching of chemistry or a chemical science in a high school (grades 9-12) on at least a half-time basis. 
+        Additional information and the application details can be found at the following **[LINK](https://www.divched.org/award/divched-region-awards-excellence-high-school-teaching)**. Only complete application portfolios will be considered.
+      
+        *Deadline*  
+        Friday, August 25, 2023 
+      
+        *How to Apply*  
+        The Excellence in High School Teaching Award package should include: 
+        - Completed nomination form. **[LINK](/MWRM2023_CHEDHSTeach.pdf)** to download Excellence in High School Teaching Award form.
+        - Nominee Statement on Teaching Philosophy
+        - Nominee Current CV
+        - Letters of Support
       
     # faq item loop
     - title : "E. Ann Nalley Regional Award for Volunteer Service to the American Chemical Society"
-      content : "*Purpose*
-      <br>To recognize the volunteer efforts of individuals who have served the American Chemical Society, contributing significantly to the goals and objectives of the Society through their Regional Activities. 
-      <br>
-      <br>*Nature and Establishment*
-      <br>This award was instituted in 2006 by ACS President E. Ann Nalley as part of her presidential initiative to recognize ACS volunteerism. It was Dr. Nalley’s wish that the award continue in perpetuity at each regional meeting. The award consists of a plaque honoring the recipient with an imbedded medallion commemorating Dr. Nalley. The award will be presented at the Midwest Regional Meeting of the ACS, which will be held on October 18-21 (2022) at the St. Charles Convention Center in St. Charles, MO. 
-      <br>
-      <br>*Rules of Eligibility*
-      <br>A nominee must be a member of the American Chemical Society residing in a local section within the region, and will have made significant contributions to their Region of the American Chemical Society. The volunteerism to be recognized may include a variety of activities, including but not limited to the initiation or sponsorship of a singular endeavor or exemplary leadership in the region. Past and present members of the ACS Board of Directors and staff are ineligible for this award. 
-      <br>
-      <br>*Deadline*
-      <br>Friday, August 25, 2023 
-      <br>
-      <br>*Nomination Process*
-      <br>Any individual, except a member of the award selection committee, may nominate or support only one nominee for this award in any given year. Please complete all fields. 
-      <br>
-      <br>*Required documentation*
-      <br>Submit each of the following to Awards Chair, Dr. Jetty Duffy-Matzner via email attachment at duffy@augie.edu .
-      <br> - nomination and support forms. **[LINK](/MWRM2023_EAnnNalley.pdf)** to download E. Ann Nalley Award forms.
-      <br> - biographical sketch (or curriculum vitae)"
+      content : |
+        *Purpose*  
+        To recognize the volunteer efforts of individuals who have served the American Chemical Society, contributing significantly to the goals and objectives of the Society through their Regional Activities. 
+        
+        *Nature and Establishment*  
+        This award was instituted in 2006 by ACS President E. Ann Nalley as part of her presidential initiative to recognize ACS volunteerism. It was Dr. Nalley’s wish that the award continue in perpetuity at each regional meeting. The award consists of a plaque honoring the recipient with an imbedded medallion commemorating Dr. Nalley. The award will be presented at the Midwest Regional Meeting of the ACS, which will be held on October 18-21 (2022) at the St. Charles Convention Center in St. Charles, MO. 
+        
+        *Rules of Eligibility*  
+        A nominee must be a member of the American Chemical Society residing in a local section within the region, and will have made significant contributions to their Region of the American Chemical Society. The volunteerism to be recognized may include a variety of activities, including but not limited to the initiation or sponsorship of a singular endeavor or exemplary leadership in the region. Past and present members of the ACS Board of Directors and staff are ineligible for this award. 
+        
+        *Deadline*  
+        Friday, August 25, 2023 
+        
+        *Nomination Process*  
+        Any individual, except a member of the award selection committee, may nominate or support only one nominee for this award in any given year. Please complete all fields. 
+        
+        *Required documentation*  
+        Submit each of the following to Awards Chair, Dr. Jetty Duffy-Matzner via email attachment at duffy@augie.edu .
+         - nomination and support forms. **[LINK](/MWRM2023_EAnnNalley.pdf)** to download E. Ann Nalley Award forms.
+         - biographical sketch (or curriculum vitae)
       
     # faq item loop
     - title : "Partners for Progress and Prosperity Award "
-      content : "*Purpose* 
-      <br>To encourage and recognize successful and exemplary partnerships within the Region. These partnerships can be between industry, academia, government, small business and/or other organizations including ACS local sections, ACS divisions, ACS international chapters, other societies or various entities domestic or overseas resulting in impactful outcomes in one or more of the following categories: 
-      <br>- Improving the public perception and appreciation for chemistry 
-      <br>- Promoting career advancement opportunities and/or supporting entrepreneurship in the chemistry enterprise 
-      <br>- Advancing advocacy efforts with government and other thought leaders 
-      <br>- Supporting STEM (Science, Technology, Engineering & Mathematics) education and/or research 
-      <br>
-      <br>*Nature*
-      <br>The award will consist of a special Partners for Progress and Prosperity silver/gold medallion plus a framed certificate of recognition (one for each Partner representing an entity or organization) plus up to $1,000 grant split equally between the partners to further the activities for which the award is made. 
-      <br>
-      <br>*Eligibility* 
-      <br>A nominee may represent academia, industry, government, small business or other organizations such as a Local Section. Partnerships can include any ACS, domestic or international entity. 
-      <br>
-      <br>*Deadline*
-      <br>Friday, August 25, 2023 
-      <br>
-      <br>*How to Apply*
-      <br>**[LINK](/MWRM2023_P3Award.pdf)** to download P3 Award forms. The P3 Award package should include: 
-      <br>- Completed Nomination Form describing the partnership, its activities, outcomes, and impact. 
-      <br>- Completed P3 Participating Partners Form from each of the participating partners. 
-      <br>- A least one, but no more than three completed Supporter Forms."
+      content : | 
+        *Purpose*  
+        To encourage and recognize successful and exemplary partnerships within the Region. These partnerships can be between industry, academia, government, small business and/or other organizations including ACS local sections, ACS divisions, ACS international chapters, other societies or various entities domestic or overseas resulting in impactful outcomes in one or more of the following categories: 
+        - Improving the public perception and appreciation for chemistry 
+        - Promoting career advancement opportunities and/or supporting entrepreneurship in the chemistry enterprise 
+        - Advancing advocacy efforts with government and other thought leaders 
+        - Supporting STEM (Science, Technology, Engineering & Mathematics) education and/or research 
+        
+        *Nature*  
+        The award will consist of a special Partners for Progress and Prosperity silver/gold medallion plus a framed certificate of recognition (one for each Partner representing an entity or organization) plus up to $1,000 grant split equally between the partners to further the activities for which the award is made. 
+        
+        *Eligibility*  
+        A nominee may represent academia, industry, government, small business or other organizations such as a Local Section. Partnerships can include any ACS, domestic or international entity. 
+        
+        *Deadline*  
+        Friday, August 25, 2023 
+        
+        *How to Apply*  
+        **[LINK](/MWRM2023_P3Award.pdf)** to download P3 Award forms. The P3 Award package should include: 
+        - Completed Nomination Form describing the partnership, its activities, outcomes, and impact. 
+        - Completed P3 Participating Partners Form from each of the participating partners. 
+        - A least one, but no more than three completed Supporter Forms."
 
       # faq item loop
     - title : "Midwest Region Board’s Travel Award for Undergraduate Students "
