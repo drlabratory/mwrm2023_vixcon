@@ -128,9 +128,7 @@ schedule:
         - time : "noon"
           image : "images/about/governance_luncheon_icon.png"
           content : "
-          ### ACS Governance Lunch
-          
-          #### with ACS President Judy Giordan"
+          ### ACS Coaching and Mentoring Lunch
     ################# tab itam loop ################
     - title : "Day 4"
       date_time : "Saturday, Oct 21st"
