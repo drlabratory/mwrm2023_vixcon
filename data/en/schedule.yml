@@ -115,7 +115,7 @@ schedule:
         - time : "morning"
           image : "images/about/chemistry_breakfast_icon.png"
           content : "
-          ### Midwest Regional Board Breakfast"
+          ### Midwest and Great Lakes Regional Board Breakfasts."
         # schedule loop item
         - time : "all day"
           image : "images/about/technical_session_icon.png"
