@@ -4,6 +4,27 @@ awards:
   title : "and Nomination Information"
   content : "The award banquet will be held on Thursday, October 19th. Details to follow."
   faq_item:
+        # faq item loop
+    - title : "Stanley C. Israel Regional Award for Advancing Diversity in the Chemical Sciences"
+      content : |
+        *Purpose*  
+        To recognize individuals and/or institutions who have advanced diversity in the chemical sciences and significantly stimulated or fostered activities that promote inclusiveness within the region.
+        
+        *Nature and Establishment*  
+        The Stanley C. Israel Regional Award is sponsored by the ACS Committee on Minority Affiars and consists of a medal and a $1,000 grant to support and further the activities for which the award was made. The award also will include funding to cover the recipient’s travel expenses to the ACS regional meeting at which the award will be presented. 
+        
+        *Rules of Eligibility*  
+        Nominees may come from academia, industry, government, or independent entities, and may also be organizations, including ACS Local Sections and Divisions. The nominee must have created and fostered ongoing programs or activities that result in increased numbers of persons from diverse and underrepresented minority groups, persons with disabilities, or women who participate in the chemical enterprise.
+        
+        *Deadline*  
+        Tuesday, August 1, 2023 
+        
+        *How to Apply*  
+        The **[Nomination Form](https://www.acs.org/funding/awards/stanley-israel-regional-award-for-advancing-diversity.html)** can be completed through the ACS website. Contact the American Chemical Society Department of Diversity Programs at [diversity@acs.org](mailto:diversity@acs.org) with any questions. The nomination package must include: 
+        - A letter of nomination
+        - A CV or resume containing relevant diversity promotion activities and factual data on outcomes
+        - At least one, but no more than three supportive letters, one of which must come from the nominee’s ACS Local Section. Mailing address, phone number(s), and e-mail address of nominee/supporter must be provided.
+        
     # faq item loop
     - title : "Division of Chemical Education Region Awards for Excellence in High School Teaching"
       content : |
@@ -46,7 +67,7 @@ awards:
         Submit each of the following to Awards Chair, Dr. Jetty Duffy-Matzner via email attachment at duffy@augie.edu .
          - nomination and support forms. **[LINK](/MWRM2023_EAnnNalley.pdf)** to download E. Ann Nalley Award forms.
          - biographical sketch (or curriculum vitae)
-      
+         
     # faq item loop
     - title : "Partners for Progress and Prosperity Award "
       content : | 
