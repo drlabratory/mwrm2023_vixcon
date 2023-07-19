@@ -1,15 +1,15 @@
 ################################# timer ############################
 timer:
   enable : true
-  title : "**Count the day** <br>until conference start"
-  #content : "Our intensive 2-day business conferences will teach you the specific steps and proven systems you need to implement and grow your business. We hope you’ll join us!"
+  title : "Conference Countdown <br> Registration is now open!"
+  content : "The abstract submission deadline has been extended until August 14."
   # timer value comes from "homepage.yml" file
 
 ################################# Pricing ##########################
 pricing:
   enable : true
   title_outline : "Price"
-  title : "Register by Sept. 15 for the discounted rate"
+  title : "Register by Sept. 15 for a discounted rate"
   #content : "Register early for the discounted rate"
   pricing_table:
     # pricing table loop
@@ -30,7 +30,7 @@ pricing:
         - "Guest $40/$40"
       button:
         label : "Get now"
-        link : "https://www.acs.org/meetings/regional/midwest.html#:~:text=The%202023%20Joint%20Midwest%20%E2%80%93%20Great,Illinois%20Sections%20of%20the%20ACS."
+        link : "https://web.cvent.com/event/cbd70f70-5bd0-4d61-a087-97b8ae0f4b57/summary."
 
     # pricing table loop
     - title : "Prices"
@@ -49,7 +49,7 @@ pricing:
         - "Guest $40/$40"
       button:
         label : "Get now"
-        link : "https://www.acs.org/meetings/regional/midwest.html#:~:text=The%202023%20Joint%20Midwest%20%E2%80%93%20Great,Illinois%20Sections%20of%20the%20ACS."
+        link : "https://web.cvent.com/event/cbd70f70-5bd0-4d61-a087-97b8ae0f4b57/summary."
 
     # pricing table loop
     #- title : "Prices"
