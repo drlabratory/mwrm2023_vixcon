@@ -14,8 +14,27 @@ pricing:
   pricing_table:
     # pricing table loop
     - title : "Prices"
+      style : "2"
+      price : "Premium ACS Member"
+      #icon : "tf-ion-android-hangout"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Premium Package $115/$140"
+        - "<br>"
+        - "<br>"
+        - "<br>"
+        - "<br>"
+        - "<br>"
+        - "<br>"
+        - "<br>"
+      button:
+        label : "Get now"
+        link : "https://web.cvent.com/event/cbd70f70-5bd0-4d61-a087-97b8ae0f4b57/summary."
+
+    # pricing table loop
+    - title : "Prices"
       style : "1"
-      price : "ACS Member"
+      price : "Standard ACS Member"
       #icon : "tf-ion-android-bulb"
       bg_image : "images/bg/page-header.jpg"
       services:
@@ -31,11 +50,11 @@ pricing:
       button:
         label : "Get now"
         link : "https://web.cvent.com/event/cbd70f70-5bd0-4d61-a087-97b8ae0f4b57/summary."
-
+        
     # pricing table loop
     - title : "Prices"
       style : "1"
-      price : "Non-ACS Member"
+      price : "Non-ACS   Member"
       #icon : "tf-ion-android-bulb"
       bg_image : "images/bg/page-header.jpg"
       services:
@@ -47,6 +66,7 @@ pricing:
         - "High School Student $5/$5"
         - "Retired/Emeritus/Unemployed $30/$40"
         - "Guest $40/$40"
+        - "<br>"
       button:
         label : "Get now"
         link : "https://web.cvent.com/event/cbd70f70-5bd0-4d61-a087-97b8ae0f4b57/summary."
