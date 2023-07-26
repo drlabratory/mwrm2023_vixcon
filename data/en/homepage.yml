@@ -28,24 +28,22 @@ event:
   image_front : "images/about/equation_writing.jpg"
   content : "The 2023 Joint Midwest-Great Lakes Regional Meeting of the American Chemical Society (MWGLRM 2023) will be held Wednesday to Saturday, October 18-21, 2023, in St. Louis, Missouri. Co-hosts for this meeting are the St. Louis and East Central Illinois Sections of the ACS. The venue will be the St. Charles Convention Center.
 <br><br>
-The theme for the meeting is “Scale Up Your STEM”, and will feature plenary speakers, exciting technical sessions and special symposia, poster sessions, regional awards, social events, and a large vendor expo.  In addition, there will be special undergraduate programming, chemistry education workshops for high school teachers, and events sponsored by the local Younger Chemists Committees and the Minority Affairs Committees. It is a great opportunity for undergraduate and graduate students to present their research and get to know the Midwest and Great Lakes chemistry communities.
-<br><br>
-**Please note that the abstract submission deadline has been extended until August 14.**"
+The theme for the meeting is “Scale Up Your STEM”, and will feature plenary speakers, exciting technical sessions and special symposia, poster sessions, regional awards, social events, and a large vendor expo.  In addition, there will be special undergraduate programming, chemistry education workshops for high school teachers, and events sponsored by the local Younger Chemists Committees and the Minority Affairs Committees. It is a great opportunity for undergraduate and graduate students to present their research and get to know the Midwest and Great Lakes chemistry communities."
   button:
     enable : true
-    label : "Register & Submit Abstract"
+    label : "Register"
     link : "https://web.cvent.com/event/cbd70f70-5bd0-4d61-a087-97b8ae0f4b57/summary."
 
 ######################### Call to action #########################
 cta:
-  enable : false
-  subtitle : "10% Sale offer for early birds"
-  title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
+  enable : true
+  subtitle : "Please note that the abstract submission deadline has been extended until August 14."
+  title : "Call for Papers <br> **Oral** & **Posters**"
   image : "images/banner/rev-slider-09.png"
   button:
     enable : true
-    label : "Register"
-    link : "pricing"
+    label : "Submit Abstract"
+    link : "https://www.acs.org/meetings/regional/midwest/2023-mwrm-call-for-abstracts.html"
 
 ############################# Feature ###########################
 feature:
