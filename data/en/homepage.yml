@@ -37,7 +37,7 @@ The theme for the meeting is “Scale Up Your STEM”, and will feature plenary 
 ######################### Call to action #########################
 cta:
   enable : true
-  subtitle : "Please note that the abstract submission deadline has been extended until August 14."
+  subtitle : "Please note that the abstract submission deadline has been extended until August 21."
   title : "Call for Papers <br> **Oral** & **Posters**"
   image : "images/banner/rev-slider-09.png"
   button:
