@@ -39,7 +39,7 @@ cta:
   enable : true
   subtitle : "Please note that the abstract submission deadline has been extended until August 21."
   title : "Call for Papers <br> **Oral** & **Posters**"
-  image : "images/banner/rev-slider-09.png"
+  image : "images/woman_image.jpg"
   button:
     enable : true
     label : "Submit Abstract"
