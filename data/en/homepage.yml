@@ -92,22 +92,16 @@ sponsor:
     - title : "Flerovium Level Sponsors"
       sponsor:
         # sponcor loop
-        #- logo : "images/clients/client-img-1.png"
-          #link : "https://examplesite.org"
-          
-        # sponcor loop
-        #- logo : "images/clients/client-img-2.png"
-          #link : "#"
-          
-        # sponcor loop
-        #- logo : "images/clients/client-img-3.png"
-          #link : "https://examplesite.org"
+        - logo : "images/clients/slu-logo.jpg"
+          link : "https://www.slu.org"
           
           
     ############################ sponsor group loop
     - title : "Platinum Level Sponsors"
       sponsor:
-  
+        # sponcor loop
+        - logo : "images/clients/Shimadzu_logo.png"
+          link : "https://www.shimadzu.com/"  
       ############################ sponsor group loop
     - title : "Gold Level Sponsors"
 
@@ -123,6 +117,22 @@ sponsor:
     #button
     label : "apply now"
     link : "mailto:exhibits@mwrm2023.org"
+
+######################### exhibit ############################
+exhibit:
+  enable :  true
+  title_outline : "Exhibitors"
+  title : "for 2023"
+  exhibit_group:
+    ############################ exhibit group loop
+    - title : " "
+      exhibit:
+        - logo : "images/clients/Agilent_Logo_RGB.jpeg"
+          link : "https://www.agilent.com/"
+      exhibit:
+        - logo : "images/clients/Magritek.png"
+          link : "https://magritek.com"
+        
 
 ################################ venue ########################
 venue:

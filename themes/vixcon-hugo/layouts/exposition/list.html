@@ -55,4 +55,10 @@
 {{ end }}
 <!-- /sponsor -->
 
+<!-- exhibit -->
+{{ if $data.homepage.exhibit.enable }}
+{{ partial "exhibit.html" . }}
+{{ end }}
+<!-- /exhibit -->
+
 {{ end }}
