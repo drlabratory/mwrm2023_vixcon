@@ -2,14 +2,14 @@
 timer:
   enable : true
   title : "Conference Countdown <br> Registration is now open!"
-  content : "The abstract submission deadline has been extended until August 14."
+  content : "Early registration pricing has been extended until September 27!"
   # timer value comes from "homepage.yml" file
 
 ################################# Pricing ##########################
 pricing:
   enable : true
   title_outline : "Price"
-  title : "Register by Sept. 15 for a discounted rate"
+  title : "Register by Sept. 27 for a discounted rate"
   #content : "Register early for the discounted rate"
   pricing_table:
     # pricing table loop
