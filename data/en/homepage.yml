@@ -26,9 +26,12 @@ event:
   title : "Scale up your STEM!"
   image_back : "images/about/purple_beakers.jpg"
   image_front : "images/about/equation_writing.jpg"
-  content : "The 2023 Joint Midwest-Great Lakes Regional Meeting of the American Chemical Society (MWGLRM 2023) will be held Wednesday to Saturday, October 18-21, 2023, in St. Louis, Missouri. Co-hosts for this meeting are the St. Louis and East Central Illinois Sections of the ACS. The venue will be the St. Charles Convention Center.
+  content : "**Please note that early registration pricing has been extended until September 27th!**
 <br><br>
-The theme for the meeting is “Scale Up Your STEM”, and will feature plenary speakers, exciting technical sessions and special symposia, poster sessions, regional awards, social events, and a large vendor expo.  In addition, there will be special undergraduate programming, chemistry education workshops for high school teachers, and events sponsored by the local Younger Chemists Committees and the Minority Affairs Committees. It is a great opportunity for undergraduate and graduate students to present their research and get to know the Midwest and Great Lakes chemistry communities."
+The 2023 Joint Midwest-Great Lakes Regional Meeting of the American Chemical Society (MWGLRM 2023) will be held Wednesday to Saturday, October 18-21, 2023, in St. Louis, Missouri. Co-hosts for this meeting are the St. Louis and East Central Illinois Sections of the ACS. The venue will be the St. Charles Convention Center.
+<br><br>
+The theme for the meeting is “Scale Up Your STEM”, and will feature plenary speakers, exciting technical sessions and special symposia, poster sessions, regional awards, social events, and a large vendor expo.  In addition, there will be special undergraduate programming, chemistry education workshops for high school teachers, and events sponsored by the local Younger Chemists Committees and the Minority Affairs Committees. It is a great opportunity for undergraduate and graduate students to present their research and get to know the Midwest and Great Lakes chemistry communities.
+"
   button:
     enable : true
     label : "Register"
@@ -36,7 +39,7 @@ The theme for the meeting is “Scale Up Your STEM”, and will feature plenary 
 
 ######################### Call to action #########################
 cta:
-  enable : true
+  enable : false
   subtitle : "Please note that the abstract submission deadline has been extended until August 21."
   title : "Call for Papers <br> **Oral** & **Posters**"
   image : "images/woman_image.jpg"
@@ -92,26 +95,45 @@ sponsor:
     - title : "Flerovium Level Sponsors"
       sponsor:
         # sponcor loop
-        - logo : "images/clients/slu-logo.jpg"
-          link : "https://www.slu.org"
+        - logo : "images/clients/Fl-SLU horiz2.png"
+          link : "#"
           
+        # sponcor loop
+        - logo : "images/clients/Fl-WashU2.png"
+          link : "#"        
           
     ############################ sponsor group loop
     - title : "Platinum Level Sponsors"
       sponsor:
         # sponcor loop
-        - logo : "images/clients/Shimadzu_logo.png"
-          link : "https://www.shimadzu.com/"  
+        - logo : "images/clients/Pt-Bayer2.png"
+          link : "#"
+          
         # sponcor loop
-        - logo : "images/clients/Shimadzu_logo.png"
-          link : "https://www.shimadzu.com/"  
+        - logo : "images/clients/Pt-Shimadzu2.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/Fl-WashU2.png"
+          link : "#"
+ 
       ############################ sponsor group loop
     - title : "Gold Level Sponsors"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/Au-SIUE2.png"
+          link : "#"
 
       ############################ sponsor group loop
     - title : "Silver Level Sponsors"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/Ag-Fimbrion3.png"
+          link : "#"
 
-
+        # sponcor loop
+        - logo : "images/clients/Ag-UMSL2.png"
+          link : "#"
 
   # call to action in sponsor
   sponsorship:
