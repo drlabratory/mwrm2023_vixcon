@@ -102,6 +102,9 @@ sponsor:
         # sponcor loop
         - logo : "images/clients/Shimadzu_logo.png"
           link : "https://www.shimadzu.com/"  
+        # sponcor loop
+        - logo : "images/clients/Shimadzu_logo.png"
+          link : "https://www.shimadzu.com/"  
       ############################ sponsor group loop
     - title : "Gold Level Sponsors"
 
@@ -117,26 +120,6 @@ sponsor:
     #button
     label : "apply now"
     link : "mailto:exhibits@mwrm2023.org"
-
-######################### exhibit ############################
-exhibit:
-  enable :  true
-  title_outline : "Exhibitors"
-  title : "for 2023"
-  exhibit_group:
-    ############################ exhibit group loop
-    - title : " "
-      exhibit:
-        - logo : "images/clients/Agilent_Logo_RGB.jpeg"
-          link : "https://www.agilent.com/"
-        - logo : "images/clients/Magritek.png"
-          link : "https://magritek.com"
-        - logo : "images/clients/Shimadzu_logo.png"
-          link : "https://www.shimadzu.com/"
-        - logo : "images/clients/Logo_Bayer.png"
-          link : "https://www.bayer.com/"
-
-        
 
 ################################ venue ########################
 venue:
