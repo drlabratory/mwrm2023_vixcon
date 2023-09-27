@@ -95,29 +95,45 @@ sponsor:
     - title : "Flerovium Level Sponsors"
       sponsor:
         # sponcor loop
-        #- logo : "images/clients/client-img-1.png"
-          #link : "https://examplesite.org"
+        - logo : "images/clients/Fl-SLU horiz2.png"
+          link : "#"
           
         # sponcor loop
-        #- logo : "images/clients/client-img-2.png"
-          #link : "#"
-          
-        # sponcor loop
-        #- logo : "images/clients/client-img-3.png"
-          #link : "https://examplesite.org"
-          
+        - logo : "images/clients/Fl-WashU2.png"
+          link : "#"        
           
     ############################ sponsor group loop
     - title : "Platinum Level Sponsors"
       sponsor:
+        # sponcor loop
+        - logo : "images/clients/Pt-Bayer2.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/Pt-Shimadzu2.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/Fl-WashU2.png"
+          link : "#"
   
       ############################ sponsor group loop
     - title : "Gold Level Sponsors"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/Au-SIUE2.png"
+          link : "#"
 
       ############################ sponsor group loop
     - title : "Silver Level Sponsors"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/Ag-Fimbrion3.png"
+          link : "#"
 
-
+        # sponcor loop
+        - logo : "images/clients/Ag-UMSL2.png"
+          link : "#"
 
   # call to action in sponsor
   sponsorship:
