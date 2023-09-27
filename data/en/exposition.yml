@@ -49,3 +49,6 @@ sponsorop:
 sponsor:
   enable : true
   # sponsor data comes from "homepage.yml" file
+
+exhibit:
+  enable :  true

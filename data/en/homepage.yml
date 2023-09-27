@@ -116,7 +116,7 @@ sponsor:
         # sponcor loop
         - logo : "images/clients/Fl-WashU2.png"
           link : "#"
-  
+ 
       ############################ sponsor group loop
     - title : "Gold Level Sponsors"
       sponsor:

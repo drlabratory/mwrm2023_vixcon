@@ -163,6 +163,12 @@
 {{ end }}
 <!-- /sponsor -->
 
+<!-- exhibit -->
+{{ if $data.homepage.exhibit.enable }}
+{{ partial "exhibit.html" . }}
+{{ end }}
+<!-- /exhibit -->
+
 <!-- venue -->
 {{ if $data.homepage.venue.enable }}
 {{ with $data.homepage.venue }}

@@ -2,6 +2,19 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
+<!-- exhibit -->
+{{ if $data.homepage.exhibit.enable }}
+{{ partial "exhibit.html" . }}
+{{ end }}
+<!-- /exhibit -->
+
+<!-- sponsor -->
+{{ if $data.about.sponsor.enable }}
+{{ partial "sponsor.html" . }}
+{{ end }}
+<!-- /sponsor -->
+
+
 <!-- about -->
 {{ if $data.exposition.exposition.enable }}
 {{ with $data.exposition.exposition }}
@@ -48,11 +61,4 @@
 </section>
 {{ end }}
 {{ end }}
-
-<!-- sponsor -->
-{{ if $data.about.sponsor.enable }}
-{{ partial "sponsor.html" . }}
-{{ end }}
-<!-- /sponsor -->
-
 {{ end }}
