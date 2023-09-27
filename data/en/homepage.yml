@@ -129,9 +129,13 @@ exhibit:
       exhibit:
         - logo : "images/clients/Agilent_Logo_RGB.jpeg"
           link : "https://www.agilent.com/"
-      exhibit:
         - logo : "images/clients/Magritek.png"
           link : "https://magritek.com"
+        - logo : "images/clients/Shimadzu_logo.png"
+          link : "https://www.shimadzu.com/"
+        - logo : "images/clients/Logo_Bayer.png"
+          link : "https://www.bayer.com/"
+
         
 
 ################################ venue ########################
