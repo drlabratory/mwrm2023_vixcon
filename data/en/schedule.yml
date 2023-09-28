@@ -53,32 +53,33 @@ schedule:
     - title : "Day 1"
       date_time : "Wednesday, Oct 18th"
       schedule_items:
-        # schedule loop item
-        - time : "afternoon"
+        - time : "5:30pm - 7:30pm"
           image : "images/about/startup.png"
-          content : "
-          ### Startups
-          "
-        # schedule loop item
-        - time : "evening"
+          content : |
+            ### Don’t Fly Over… LAND (in St. Louis)!  
+            Panel discussion on efforts to promote new chemical/biochemical industry growth through work force development and recruitment.  All are Welcome – no event registration necessary!
+        - time : "5:30pm - 7:30pm"
           image : "images/about/ice_cream_social.png"
-          content : "
-          ### Ice Cream Social\n
-          ###### Undergraduate Program
-          "
-        # schedule loop item
-        - time : "evening"
+          content : |
+            ### Undergraduate Ice Cream Social
+            Ice cream, networking, and a speaker.  For undergraduate students.  Please register – but come anyway if you forgot!
+            - Bruce C. Hamper, “Coffee: Chemistry of the World’s Favorite Wake-Up Beverage"
+            - **Meeting Room 105**
+        - time : "7:00pm - 9:00pm"
           image : "images/about/exhibit_icon.png"
-          content : "### Exhibits Hall Opens
-          "
-          
-
-          
+          content : |
+            ### Expo and SciMix / Grad Student Recruiting Fair
+            - Expo kick-off and posters
+            - Undergraduate students interested in graduate school can meet with faculty.
+            - **North Hall**
     ################# tab itam loop ################
     - title : "Day 2"
       date_time : "Thursday, Oct 19th"
       schedule_items:
-        # schedule loop item
+        - time : "8:00am - 5:30pm"
+          image : "images/about/exhibit_icon.png"
+          content : |
+            ### Expo - North Hall
         - time : "morning"
           image : "images/about/career_icon.png"
           content : "

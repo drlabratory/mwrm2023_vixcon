@@ -15,8 +15,13 @@ disableLanguages = [true] # desable language from here
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
-[markup.goldmark.renderer]
-unsafe= true
+[markup]
+    defaultMarkdownHandler = "goldmark"
+	
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 
 ############################# Plugins ##############################
 # CSS Plugins
