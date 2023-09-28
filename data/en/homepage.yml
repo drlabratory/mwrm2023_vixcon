@@ -143,6 +143,52 @@ sponsor:
     label : "apply now"
     link : "mailto:exhibits@mwrm2023.org"
 
+######################### exhibit ############################
+exhibit:
+  enable :  true
+  title_outline : "Exhibitors"
+  title : "for 2023"
+  exhibit_group:
+    ############################ exhibit group loop
+    - title : " "
+      exhibit:
+        - logo : "images/clients/Agilent_Logo_RGB.jpeg"
+          link : "https://www.agilent.com/"
+        - logo : "images/clients/Magritek.png"
+          link : "https://magritek.com"
+        - logo : "images/clients/Nanalysis-logo.jpeg"
+          link : "https://www.nanalysis.com/"
+        - logo : "images/clients/waters-logo-black.svg"
+          link : "https://www.waters.com/"
+        - logo : "images/clients/eurofins-logo.png"
+          link : "https://www.eurofins.com"
+        - logo : "images/clients/avantor-logo.png"
+          link : "https://www.avantorsciences.com/site/"
+        - logo : "images/clients/Pine-Research-Logo.jpeg"
+          link : "https://pineresearch.com"
+        - logo : "images/clients/iss-logo-dark.png"
+          link : "https://iss.com"
+        - logo : "images/clients/SCIEX_logo.jpeg"
+          link : "https://sciex.com"
+        - logo : "images/clients/oakwood-chemical.png"
+          link : "https://oakwoodchemical.com/"
+        - logo : "images/clients/BUCHI-logo.svg"
+          link : "https://www.buchi.com/"
+        - logo : "images/clients/elsevier_logo.png"
+          link : "https://www.elsevier.com/"
+        - logo : "images/clients/sdstate_logo.png"
+          link : "https://www.sdstate.edu/"
+        - logo : "images/clients/ksu-purple.svg"
+          link : "https://www.k-state.edu/"
+        - logo : "images/clients/umkc_logo.png"
+          link : "https://www.umkc.edu/"
+        - logo : "images/clients/mtu_logo.png"
+          link : "https://www.mtu.edu/"
+        - logo : "images/clients/ua-logo-horz.svg"
+          link : "https://www.uark.edu/"
+
+
+
 ################################ venue ########################
 venue:
   enable : true
