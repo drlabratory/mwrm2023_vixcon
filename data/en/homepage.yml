@@ -106,7 +106,7 @@ sponsor:
     - title : "Platinum Level Sponsors"
       sponsor:
         # sponcor loop
-        - logo : "images/clients/Pt-Bayer2.png"
+        - logo : "images/clients/bayer_horiz.png"
           link : "#"
           
         # sponcor loop
