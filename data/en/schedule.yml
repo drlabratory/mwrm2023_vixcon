@@ -80,33 +80,42 @@ schedule:
           image : "images/about/exhibit_icon.png"
           content : |
             ### Expo - North Hall
-        - time : "morning"
+        - time : "11:00am - 12:00pm"
           image : "images/about/career_icon.png"
-          content : "
-          
-          ### Career Panel"
-        # schedule loop item
-        - time : "all day"
-          image : "images/about/technical_session_icon.png"
-          content : "
-          
-          ### Technical Sessions
-          
-          #### & Special Symposia"
-        # schedule loop item
-        - time : "noon"
+          content : |
+            ### Grad School Recruiting Fair
+            Undergraduate students interested in graduate school can meet with faculty.
+            - **North Hall** 
+        - time : "12:15pm - 1:15pm"
           image : "images/about/cma_luncheon_icon.png"
-          content : "
-          ### Luncheon
-          
-          #### Committee on Minority Affairs"
-        # schedule loop item
-        - time : "evening"
+          content : |
+            ### Luncheon
+            #### Committee on Minority Affairs
+            - Event registration required; box lunch included:  $20
+            - **Ballroom A**
+        - time: "1:30pm - 4:00pm"
+          image : "images/about/technical_session_icon.png"
+          content : |
+            ### Undergraduate Programming
+            Special Event	Talks describing the science taking place at their starts-ups.  For undergraduate students.
+            - Thomas D. Campbell, “Highly Multiplexed Immunofluorescence with CellScape
+            - Gabe Haas, “MyoMatrix: A Biomimetic Sponge Scaffold for Skeletal Muscle Regeneration after Trauma”
+            - Aimee McBride, “Green Hills Labs Keeping Weed Clean: An Overview of Safety Testing for Cannabis in Missouri”
+            - John Whitteck, “NewLeaf Symbiotics:  harnessing the power of these microorganisms”
+            - Adam Richardson, “Panome Bio – Next Generation Metabolomics and Multiomics”
+        - time : "6:00pm - 7:00pm"
           image : "images/about/award_dinner_icon.png"
-          content : "
-          ### Midwest Award Reception
-          
-          #### Midwest/Great Lakes Region Banquet"
+          content : |
+            ### Midwest-Great Lakes Awards Reception
+            Reception honoring award recipients.  All are welcome – free drink ticket with event registration.
+            - **Ballroom A**
+        - time : "7:00pm - 9:00pm"
+          image : "images/about/award_dinner_icon.png"
+          content : |
+            ### Midwest-Great Lakes Awards Banquet
+            Dinner and awards program.  Event registration required:  $40.
+            - **Ballroom A**
+
 
     ################# tab itam loop ################
     - title : "Day 3"
