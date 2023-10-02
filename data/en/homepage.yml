@@ -96,35 +96,52 @@ sponsor:
       sponsor:
         # sponcor loop
         - logo : "images/clients/Fl-SLU horiz2.png"
-          link : "#"
+          link : "https://www.slu.edu/"
           
         # sponcor loop
         - logo : "images/clients/Fl-WashU2.png"
-          link : "#"        
+          link : "https://wustl.edu/"        
           
     ############################ sponsor group loop
     - title : "Platinum Level Sponsors"
       sponsor:
         - logo : "images/clients/Pt-Shimadzu2.png"
-          link : "#"
+          link : "https://www.shimadzu.com/"
         - logo : "images/clients/Au-SIUE2.png"
-          link : "#"
+          link : "https://www.siue.edu/"
 
       ############################ sponsor group loop
     - title : "Gold Level Sponsors"
       sponsor:
         - logo : "images/clients/bayer_horiz.png"
-          link : "#"
+          link : "https://www.bayer.com/en/"
+        
 
       ############################ sponsor group loop
     - title : "Silver Level Sponsors"
       sponsor:
         - logo : "images/clients/Ag-Fimbrion3.png"
-          link : "#"
+          link : "https://www.fimbrion.com/"
+        #- logo : "images/clients/Ag-JASCO.png"
+        #  link : "https://jascoinc.com/"
+        #- logo : "images/clients/logo-panomebio.webp"
+        #  link : "https://panomebio.com/"
         - logo : "images/clients/Ag-UMSL2.png"
-          link : "#"
-        - logo : "images/clients/logo-panomebio.webp"
-          link : "https://panomebio.com/"
+          link : "https://www.umsl.edu/"
+        
+
+      ############################ sponsor group loop
+    - title : "Event Sponsors"
+      sponsor:
+        - logo : "images/clients/Exhibitor_ACS2.png"
+          link : "https://www.acs.org/"
+        #- logo : "images/clients/Sponsor_Macmillan.png"
+        #  link : "https://www.macmillanlearning.com/college/us"
+        - logo : "images/clients/Sponsor_Principia.png"
+          link : "https://www.principiacollege.edu/"
+        - logo : "images/clients/Pt-Shimadzu2.png"
+          link : "https://www.shimadzu.com/"
+
 
   # call to action in sponsor
   sponsorship:
@@ -143,6 +160,8 @@ exhibit:
     ############################ exhibit group loop
     - title : " "
       exhibit:
+        - logo : "images/clients/Exhibitor_ACS2.png"
+          link : "https://www.acs.org/"
         - logo : "images/clients/Agilent_Logo_RGB.jpeg"
           link : "https://www.agilent.com/"
         - logo : "images/clients/Magritek.png"
