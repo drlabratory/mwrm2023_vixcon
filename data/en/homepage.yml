@@ -126,6 +126,8 @@ sponsor:
         #  link : "https://jascoinc.com/"
         #- logo : "images/clients/logo-panomebio.webp"
         #  link : "https://panomebio.com/"
+        - logo : "images/clients/Ag-UIUC2.png"
+          link : "https://illinois.edu/"
         - logo : "images/clients/Ag-UMSL2.png"
           link : "https://www.umsl.edu/"
         
