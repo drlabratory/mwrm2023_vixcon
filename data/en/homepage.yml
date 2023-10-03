@@ -137,8 +137,8 @@ sponsor:
       sponsor:
         - logo : "images/clients/Exhibitor_ACS2.png"
           link : "https://www.acs.org/"
-        #- logo : "images/clients/Sponsor_Macmillan.png"
-        #  link : "https://www.macmillanlearning.com/college/us"
+        - logo : "images/clients/Sponsor_Macmillan.png"
+          link : "https://www.macmillanlearning.com/college/us"
         - logo : "images/clients/Sponsor_Principia.png"
           link : "https://www.principiacollege.edu/"
         - logo : "images/clients/Pt-Shimadzu2.png"
