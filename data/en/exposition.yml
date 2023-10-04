@@ -50,5 +50,7 @@ sponsor:
   enable : true
   # sponsor data comes from "homepage.yml" file
 
+######################### exhibit ############################
 exhibit:
   enable :  true
+  # exhibit data comes from "homepage.yml" file

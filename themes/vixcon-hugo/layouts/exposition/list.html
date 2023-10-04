@@ -2,18 +2,17 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<!-- exhibit -->
-{{ if $data.homepage.exhibit.enable }}
-{{ partial "exhibit.html" . }}
-{{ end }}
-<!-- /exhibit -->
-
 <!-- sponsor -->
 {{ if $data.about.sponsor.enable }}
 {{ partial "sponsor.html" . }}
 {{ end }}
 <!-- /sponsor -->
 
+<!-- exhibit -->
+{{ if $data.homepage.exhibit.enable }}
+{{ partial "exhibit.html" . }}
+{{ end }}
+<!-- /exhibit -->
 
 <!-- about -->
 {{ if $data.exposition.exposition.enable }}

@@ -126,6 +126,8 @@ sponsor:
         #  link : "https://jascoinc.com/"
         #- logo : "images/clients/logo-panomebio.webp"
         #  link : "https://panomebio.com/"
+        - logo : "images/clients/Ag-UIUC2.png"
+          link : "https://illinois.edu/"
         - logo : "images/clients/Ag-UMSL2.png"
           link : "https://www.umsl.edu/"
         
@@ -135,8 +137,8 @@ sponsor:
       sponsor:
         - logo : "images/clients/Exhibitor_ACS2.png"
           link : "https://www.acs.org/"
-        #- logo : "images/clients/Sponsor_Macmillan.png"
-        #  link : "https://www.macmillanlearning.com/college/us"
+        - logo : "images/clients/Sponsor_Macmillan.png"
+          link : "https://www.macmillanlearning.com/college/us"
         - logo : "images/clients/Sponsor_Principia.png"
           link : "https://www.principiacollege.edu/"
         - logo : "images/clients/Pt-Shimadzu2.png"
