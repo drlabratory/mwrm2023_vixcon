@@ -1,8 +1,17 @@
 ################################# timer ############################
 timer:
   enable : true
-  title : "Conference Countdown <br> Registration is now open!"
-  content : "Early registration pricing has been extended until September 27!"
+  title : "Conference Countdown"
+  content : | 
+    Early registration has passed, on site registration will be open the following times:
+    {{< bootstrap-table "table table-striped table-sm" >}}
+    | Day              |                Time |
+    | :--------------- | ------------------: |
+    | October 18, 2023 |  4:30 pm - 9:00 pm |
+    | October 19, 2023 |  7:00 am - 9:00 pm |
+    | October 20, 2023 |  7:00 am - 1:00 pm |
+    | October 21, 2023 | 9:00 am - 12:00 pm |
+    {{< /bootstrap-table >}}
   # timer value comes from "homepage.yml" file
 
 ################################# Pricing ##########################

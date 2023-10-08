@@ -89,7 +89,7 @@ schedule:
         - time : "8:00am - 5:30pm"
           image : "images/about/exhibit_icon.png"
           content : |
-            ### Expo - North Hall
+            ### Expo snd Posters - North Hall
         - time : "11:00am - 12:00pm"
           image : "images/about/career_icon.png"
           content : |
@@ -113,6 +113,21 @@ schedule:
             - Aimee McBride, “Green Hills Labs Keeping Weed Clean: An Overview of Safety Testing for Cannabis in Missouri”
             - John Whitteck, “NewLeaf Symbiotics:  harnessing the power of these microorganisms”
             - Adam Richardson, “Panome Bio – Next Generation Metabolomics and Multiomics”
+        - time : "4:00pm - 6:00pm"
+          image : "images/about/cocktails.jpg"
+          content : |
+            ### Cocktails with Chemists
+            Please join the St. Louis Section of the ACS for a Cocktails with Chemists networking happy hour on Thursday, October 19 from 4 – 6 PM at Mission Taco Join Streets of St. Charles.  
+            - All attendees will receive a drink ticket with guests over 21 being able to choose a cocktail, wine or beer.   
+            - Sponsored by the STL local section’s Young Chemists Committee, Minority Affairs Committee, and by Bayer CropScience in St. Louis.
+        - time : "5:15pm - 6:00pm"
+          image : "images/Patti-portrait.jpg"
+          content : |
+            ### Plenary Lecture - Midwest Award Address
+            Gary Patti,Ph.D.  
+            Michael and Tana Powell Professor of Chemistry  
+            Washington University in St. Louis
+            - **Ballroom B**
         - time : "6:00pm - 7:00pm"
           image : "images/about/award_dinner_icon.png"
           content : |
