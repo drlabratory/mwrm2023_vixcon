@@ -1,52 +1,62 @@
 schedule:
   enable : true
-  title_overview : "Overview"
+  title_overview : "Schedule"
   content_overview : |
-    ### Technical Sessions
-    #### (Contributed Talks)
-    
-    - Analytical Chemistry
-    - Biochemistry
-    - Chemical Education
-    - Inorganic Chemistry
-    - Macromolecular/Polymer Chemistry
-    - Medicinal/Pharmaceutical Chemistry
-    - Organic Chemistry
-    - Physical Chemistry   
-    - Theoretical, Computational, and Data-Driven Modeling Chemistry
+    The full schedule can be accessed on your phone via the QR code below:  
+    <img src="/images/bit.ly_mwglrm-2023.png" alt="QR Code image" style="height: 200px; width:200px">  
+    Or click <a href="https://acs-meetings.s3.amazonaws.com/mwglrm-2023/index.html" target="_blank">HERE</a> to open the schedule in a new window.
 
-  content_invited  : |
-    ### Special Symposia
-    #### (Invited Talks)
-    {{< bootstrap-table "table table-striped table-sm" >}}
-    | Symposia                                                                                  |                                                      Chair(s) |
-    | :---------------------------------------------------------------------------------------- | ------------------------------------------------------------: |
-    | *Analytical Techniques in Environmental Chemistry*                                                                    |                      Kevin Tucker |
-    | *Beyond the Boundaries of Computational Chemistry and Catalysis*                                                      |                    Alex Mironenko |
-    | *Bioprocess Chemistry*                                                                                                |                          Jie Dong |
-    | *Biotherapeutic Process Development and Manufacture in the Midwest*                                                   |                   Steve Kolodziej |
-    | *Carbohydrates & Glycosylations*                                                                                      |                   Cristina De Meo |
-    | *Chemical Theory Across Scales*                                                                                       | Kade Head-Marsden / Robert Wexler |
-    | *Dynamic Properties of Crystals*                                                                                      |                    Ryan Groeneman |
-    | *Electrochemistry*                                                                                                    |                         Mike Shaw |
-    | *Environmental Chemistry in Agriculture*                                                                              |                        Leah Riter |
-    | *Flow Chemistry*                                                                                                      |                        Todd Stark |
-    | *From Clear Flasks to Green Fields: Utilizing a Sustainability Mindset in Agrochemical Active Ingredient Development* |                    Justin Struble |
-    | *Innovative Analytical Measurements at the Micro and Nano Scale*                                                      |                      Scott Martin |
-    | *Medicinal Chemistry & Chemical Biology: Discovering New Biology and New Drugs Through Chemistry*                     |         Marv Meyers / Mike Crider |
-    | *Nucleic Acid Chemistry*                                                                                              |               John-Stephen Taylor |
-    | *Organic Reaction Mechanisms*                                                                                         |                            Yun Lu |
-    | *Process Development in Industry: Solving Problems*                                                                   |                    Michael Tracey |
-    | *Proteins and Lipids*                                                                                                 |                     James Bashkin |
-    | *Probing Biological Chemistry*                                                                                        |                      Michael Beck |
-    | *Organometallic Catalysis Research at PUIs*                                                                           |                   Jocelyn Lanorio |
-    | *Radiochemistry: From Radioactivity to Drug Product*                                                                  |                      Mike Nickels |
-    | *Safety in the Undergraduate Lab*                                                                                     |                      Sue Wiediger |
-    | *Solid State NMR for Industry, Medicine, and Academe*                                                                 |                      Sophia Hayes |
-    | *Sustainable Transition Metal Catalysis*                                                                              |                       Jamie Neely |
-    | *Synthesis and Characterization for Functional Polymeric Materials*                                                   |     Alexa Kuenstler / Whitney Loo |
-    | *To Flip or Not to Flip? How to Maintain Students' Attention Post-Pandemic*                                           |              Jose Andino Martinez |
-    {{< /bootstrap-table >}}
+    <iframe
+    src="https://acs-meetings.s3.amazonaws.com/mwglrm-2023/index.html"
+    style="width:800px; height:800px;"
+    ></iframe>  
+
+  # content_overview : |
+  #   ### Technical Sessions
+  #   #### (Contributed Talks)
+    
+  #   - Analytical Chemistry
+  #   - Biochemistry
+  #   - Chemical Education
+  #   - Inorganic Chemistry
+  #   - Macromolecular/Polymer Chemistry
+  #   - Medicinal/Pharmaceutical Chemistry
+  #   - Organic Chemistry
+  #   - Physical Chemistry   
+  #   - Theoretical, Computational, and Data-Driven Modeling Chemistry
+
+  # content_invited  : |
+  #   ### Special Symposia
+  #   #### (Invited Talks)
+  #   {{< bootstrap-table "table table-striped table-sm" >}}
+  #   | Symposia                                                                                  |                                                      Chair(s) |
+  #   | :---------------------------------------------------------------------------------------- | ------------------------------------------------------------: |
+  #   | *Analytical Techniques in Environmental Chemistry*                                                                    |                      Kevin Tucker |
+  #   | *Beyond the Boundaries of Computational Chemistry and Catalysis*                                                      |                    Alex Mironenko |
+  #   | *Bioprocess Chemistry*                                                                                                |                          Jie Dong |
+  #   | *Biotherapeutic Process Development and Manufacture in the Midwest*                                                   |                   Steve Kolodziej |
+  #   | *Carbohydrates & Glycosylations*                                                                                      |                   Cristina De Meo |
+  #   | *Chemical Theory Across Scales*                                                                                       | Kade Head-Marsden / Robert Wexler |
+  #   | *Dynamic Properties of Crystals*                                                                                      |                    Ryan Groeneman |
+  #   | *Electrochemistry*                                                                                                    |                         Mike Shaw |
+  #   | *Environmental Chemistry in Agriculture*                                                                              |                        Leah Riter |
+  #   | *Flow Chemistry*                                                                                                      |                        Todd Stark |
+  #   | *From Clear Flasks to Green Fields: Utilizing a Sustainability Mindset in Agrochemical Active Ingredient Development* |                    Justin Struble |
+  #   | *Innovative Analytical Measurements at the Micro and Nano Scale*                                                      |                      Scott Martin |
+  #   | *Medicinal Chemistry & Chemical Biology: Discovering New Biology and New Drugs Through Chemistry*                     |         Marv Meyers / Mike Crider |
+  #   | *Nucleic Acid Chemistry*                                                                                              |               John-Stephen Taylor |
+  #   | *Organic Reaction Mechanisms*                                                                                         |                            Yun Lu |
+  #   | *Process Development in Industry: Solving Problems*                                                                   |                    Michael Tracey |
+  #   | *Proteins and Lipids*                                                                                                 |                     James Bashkin |
+  #   | *Probing Biological Chemistry*                                                                                        |                      Michael Beck |
+  #   | *Organometallic Catalysis Research at PUIs*                                                                           |                   Jocelyn Lanorio |
+  #   | *Radiochemistry: From Radioactivity to Drug Product*                                                                  |                      Mike Nickels |
+  #   | *Safety in the Undergraduate Lab*                                                                                     |                      Sue Wiediger |
+  #   | *Solid State NMR for Industry, Medicine, and Academe*                                                                 |                      Sophia Hayes |
+  #   | *Sustainable Transition Metal Catalysis*                                                                              |                       Jamie Neely |
+  #   | *Synthesis and Characterization for Functional Polymeric Materials*                                                   |     Alexa Kuenstler / Whitney Loo |
+  #   | *To Flip or Not to Flip? How to Maintain Students' Attention Post-Pandemic*                                           |              Jose Andino Martinez |
+  #   {{< /bootstrap-table >}}
 
   schedule_tab : 
   ################# tab itam loop ################
