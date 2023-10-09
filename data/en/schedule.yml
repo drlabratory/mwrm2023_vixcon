@@ -207,11 +207,15 @@ schedule:
     - title : "Day 4"
       date_time : "Saturday, Oct 21st"
       schedule_items:
-        # schedule loop item
-        - time : "morning"
+        - time : "8:15am - 10:00am"
           image : "images/about/highschool_chemistry_icon.png"
-          content : "
-          ### Workshops and Symposia
-
-          #### High School Teachers' Group
-          "
+          content : |
+            ### Laboratory Safety for High School Chemistry Lab
+            For high school chemistry teachers.  Registration table and coffee open at 8:00 am. 
+            - **Lower Lobby - Embassy Suites Hotel**
+        - time : "10:15am - 12:00pm"
+          image : "images/about/case_study_icon.png"
+          content : |
+            ### Pros and Cons of a Case-Study-based Curriculum
+            High school chemistry teacher workshop
+            - **Lower Lobby - Embassy Suites Hotel**
