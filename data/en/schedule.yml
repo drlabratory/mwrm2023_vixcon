@@ -89,7 +89,7 @@ schedule:
         - time : "8:00am - 5:30pm"
           image : "images/about/exhibit_icon.png"
           content : |
-            ### Expo snd Posters - North Hall
+            ### Expo - North Hall
         - time : "11:00am - 12:00pm"
           image : "images/about/career_icon.png"
           content : |
@@ -146,24 +146,61 @@ schedule:
     - title : "Day 3"
       date_time : "Friday, Oct 20th"
       schedule_items:
-        # schedule loop item
-        - time : "morning"
+        - time : "7:30am - 10:30am"
           image : "images/about/chemistry_breakfast_icon.png"
-          content : "
-          ### Midwest and Great Lakes Regional Board Breakfasts."
-        # schedule loop item
-        - time : "all day"
-          image : "images/about/technical_session_icon.png"
-          content : "
-          
-          ### Technical Sessions
-          
-          #### & Special Symposia"
-        # schedule loop item
-        - time : "noon"
+          content : |
+            ### Midwest Regional Board Meeting
+            Annual meeting of the Midwest Regional Board.  By invitation only.  Breakfast included.  
+            - **Grand Ballroom A**
+        - time : "7:30am - 10:30am"
+          image : "images/about/chemistry_breakfast_icon.png"
+          content : |
+            ### Great Lakes Regional Board Meeting
+            Annual meeting of the Great Lakes Regional Board.  By invitation only.  Breakfast included.  
+            - **Grand Ballroom A**
+        - time : "8:00am - 12:00pm"
+          image : "images/about/exhibit_icon.png"
+          content : |
+            ### Expo 
+            - **North Hall**
+        - time : "9:30am - 12:00pm"
+          image : "images/about/roundtable.png"
+          content : |
+            ### Roundtable Discussion on Small Chemical Business  
+            Panel discussion featuring owners and operators of small chemical business 
+            - **Meeting Room 104**
+        - time : "11:00am - 12:00pm"
+          image : "images/about/grad_fair_icon.png"
+          content : |
+            ### Grad School Recruiting Fair  
+            Undergraduate students interested in graduate school can meet with faculty
+            - **North Hall**
+        - time : "12:15pm - 1:15pm"
           image : "images/about/governance_luncheon_icon.png"
           content : |
-            ### ACS Coaching and Mentoring Lunch
+            ### Mentoring Lunch
+            Panel discussion on mentoring, coaching, and networking.  
+            Event registration required; box lunch included:  $20.
+            - **Grand Ballroom A**
+        - time: "1:30pm - 5:15pm"
+          image : "images/about/trust_in_science_icon.png"
+          content : |
+            ### Trust in Science Workshop
+            ACS Communications staff will present info to build trust in science among the public.  Event Registration required.  
+            - **Meeting Room 102**
+        - time : "1:30pm - 5:15pm"
+          image : "images/about/acing_interview_icon.png"
+          content: |
+            ### Acing the Interview Workshop
+            ACS Career Pathways staff will present info to prepare for your next interview.  
+            - **Meeting Room 103**
+        - time : "1:30pm - 3:10pm"
+          image : "images/about/undergrad_panel_icon.png"
+          content: |
+            ### Career Panel for Undergraduates
+            Panel discussion featuring chemists with varied careers and career paths.  For Undergraduate students.  
+            - **Meeting Room 105**
+
     ################# tab itam loop ################
     - title : "Day 4"
       date_time : "Saturday, Oct 21st"
