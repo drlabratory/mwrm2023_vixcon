@@ -130,6 +130,8 @@ sponsor:
           link : "https://illinois.edu/"
         - logo : "images/clients/Ag-UMSL2.png"
           link : "https://www.umsl.edu/"
+        - logo : "images/clients/Rigaku.jpeg"
+          link : "https://www.rigaku.com/"
         
 
       ############################ sponsor group loop
@@ -188,6 +190,8 @@ exhibit:
           link : "https://www.mtu.edu/"
         - logo : "images/clients/Nanalysis-logo.jpeg"
           link : "https://www.nanalysis.com/"
+        - logo : "images/clients/Nestle.jpeg"
+          link : "https://www.nestlejobs.com/nestle-purina"
         - logo : "images/clients/oakwood-chemical.png"
           link : "https://oakwoodchemical.com/"
         - logo : "images/clients/Pine-Research-Logo.jpeg"
@@ -204,6 +208,8 @@ exhibit:
           link : "https://www.umsl.edu/"
         - logo : "images/clients/waters-logo-black.svg"
           link : "https://www.waters.com/"
+        - logo : "images/clients/WuXi AppTec.jpeg"
+          link : "https://www.wuxiapptec.com/"
 
 ################################ venue ########################
 venue:
