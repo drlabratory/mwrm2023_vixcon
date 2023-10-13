@@ -101,9 +101,10 @@ schedule:
         - time : "12:15pm - 1:15pm"
           image : "images/about/cma_luncheon_icon.png"
           content : |
-            ### Luncheon
-            #### Committee on Minority Affairs
+            ### Diversity Luncheon
+            #### Diverse Business Professionals Panel
             - Event registration required; box lunch included:  $20
+            - Sponsored by the ACS Committee on Minority Affairs
             - **Ballroom A**
         - time: "1:30pm - 4:00pm"
           image : "images/about/technical_session_icon.png"

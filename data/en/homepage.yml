@@ -142,6 +142,8 @@ sponsor:
       sponsor:
         - logo : "images/clients/Exhibitor_ACS2.png"
           link : "https://www.acs.org/"
+        - logo : "images/clients/acs_cma.png"
+          link : "https://www.acs.org/about/governance/committees/minority-affairs.html"
         - logo : "images/clients/Sponsor_Macmillan.png"
           link : "https://www.macmillanlearning.com/college/us"
         - logo : "images/clients/Sponsor_Principia.png"
