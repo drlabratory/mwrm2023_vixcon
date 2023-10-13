@@ -165,7 +165,7 @@ schedule:
           content : |
             ### Expo 
             - **North Hall**
-        - time : "9:30am - 12:00pm"
+        - time : "10:00am - 12:00pm"
           image : "images/about/roundtable.png"
           content : |
             ### Roundtable Discussion on Small Chemical Business  
@@ -190,12 +190,6 @@ schedule:
             ### Trust in Science Workshop
             ACS Communications staff will present info to build trust in science among the public.  Event Registration required.  
             - **Meeting Room 102**
-        - time : "1:30pm - 5:15pm"
-          image : "images/about/acing_interview_icon.png"
-          content: |
-            ### Acing the Interview Workshop
-            ACS Career Pathways staff will present info to prepare for your next interview.  
-            - **Meeting Room 103**
         - time : "1:30pm - 3:10pm"
           image : "images/about/undergrad_panel_icon.png"
           content: |
