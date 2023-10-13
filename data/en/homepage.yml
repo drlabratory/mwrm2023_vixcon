@@ -130,9 +130,12 @@ sponsor:
           link : "https://illinois.edu/"
         - logo : "images/clients/Ag-UMSL2.png"
           link : "https://www.umsl.edu/"
+        
+  ############################ sponsor group loop
+    - title : "Zinc Level Sponsors"
+      sponsor:
         - logo : "images/clients/Rigaku.jpeg"
           link : "https://www.rigaku.com/"
-        
 
       ############################ sponsor group loop
     - title : "Event Sponsors"
