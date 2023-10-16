@@ -65,7 +65,7 @@ link = "plugins/google-map/map.js"
   weight = 4
   
   [[menu.main]]
-  name = "Travel FAQ"
+  name = "FAQ"
   URL = "travel"
   weight = 5
   

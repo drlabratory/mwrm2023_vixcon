@@ -4,30 +4,35 @@ travel:
   title : "Frequently Asked Questions"
   content : "The Fall 2023 Joint Midwest/Great Lakes Regional Meeting will take place at the St. Charles Convention Center. The St. Charles Convention Center is located just northeast of St. Louis, near the intersection of Highway 70 and 5th Street in St. Charles, Missouri. "
   faq_item:
+    - title: "Information for Poster Presentations"
+      content : | 
+        The Poster Presentations occur inside the Exhibit Hall.  The dimension of your poster must be no larger than 42” high by 72” wide (landscape).  Please arrive at least 5 minutes early to find your position.  Push pins will be available at your Poster board.  Presenters should be present for the entire session, but may step away for a few minutes to enjoy the refreshments available in the Exhibit Hall.
+    - title: "Information for Oral Presentations"
+      content : |
+        All Oral Presentations are in-person only, and .pptx (PPoint) or .pdf format strongly suggested for mode of presentation.  A wired Microphone is provided for the larger rooms, and all Session Presiders will have a laptop and laser pointer/advancer.  Please arrive at least 10 minutes before your assigned session starts and check-in with your Presider.  You may bring your talk on a thumb drive or on your own laptop (which must have HDMI port).  If your talk is on a thumb drive, be sure it is transferred to the Presider’s laptop before the session begins.   Please be aware that your schedule time slot includes 3 minutes of Q&A at the end.  For example, if you have a 25-minute time slot, please aim for a 22 minute talk to leave time for questions. Your Presider will provide any additional details at the start of the session. 
     # faq item loop
     - title : "What airports serve St. Louis?"
-      content : "**[Two airports](https://www.tripindicator.com/which-st-louis-airport-is-best-to-fly-or-closest-to-rome-city-centre.html)** serve the city of St. Louis.
-
-<br>
-- Lambert-St. Louis Airport (STL), 9 miles from the Convention Center
-<br>
-- MidAmerica St. Louis Airport (BLV), 45 miles from the Convention Center"
+      content : |
+        **[Two airports](https://www.tripindicator.com/which-st-louis-airport-is-best-to-fly-or-closest-to-rome-city-centre.html)** serve the city of St. Louis.
+        - Lambert-St. Louis Airport (STL), 9 miles from the Convention Center  
+        - MidAmerica St. Louis Airport (BLV), 45 miles from the Convention Center  term
       
     # faq item loop
     - title : "What hotels are close to the Convention Center?"
-      content : "A number of hotels reside near the St. Charles Convention Center including:
-
-<br>
-- **[Embassy Suites by Hilton](https://www.hilton.com/en/book/reservation/flexibledates/?ctyhocn=STLEMES&arrivalDate=2023-09-26&departureDate=2023-09-27&room1NumAdults=1)** is connected to the St. Charles Convention Center and offers special ACS rates until October 2, 2023. To apply the discounted rate, call Hilton Reservations at 800-774-1500 and use code *acs* to book."
+      content : |
+        A number of hotels reside near the St. Charles Convention Center including:
+        - **[Embassy Suites by Hilton](https://www.hilton.com/en/book/reservation/flexibledates/?ctyhocn=STLEMES&arrivalDate=2023-09-26&departureDate=2023-09-27&room1NumAdults=1)** is connected to the St. Charles Convention Center and offers special ACS rates until October 2, 2023. To apply the discounted rate, call Hilton Reservations at 800-774-1500 and use code *acs* to book.
       
     # faq item loop
     - title : "What attractions does St. Charles offer?"
-      content : "**[St. Charles](https://www.discoverstcharles.com/)** is known for its historic architecture, brick-paved streets, and lovely parks. If you take a walk down Main St. you'll find great meals, specialty stores, and antiques. For those looking to get out of the city, Historic Missouri Wine Country is a short drive away.
-<br><br>
-The **[Streets of St. Charles](https://www.discoverstcharles.com/things-to-do/attractions/streets-of-st-charles/)** is a 12 minute walk from the Convention Center and offers dining, drinks, movies, and nightlife. Parking is free!"
+      content : |
+        **[St. Charles](https://www.discoverstcharles.com/)** is known for its historic architecture, brick-paved streets, and lovely parks. If you take a walk down Main St. you'll find great meals, specialty stores, and antiques. For those looking to get out of the city, Historic Missouri Wine Country is a short drive away.  
+
+        The **[Streets of St. Charles](https://www.discoverstcharles.com/things-to-do/attractions/streets-of-st-charles/)** is a 12 minute walk from the Convention Center and offers dining, drinks, movies, and nightlife. Parking is free!
       
     # faq item loop
     - title : "What else is there to do in St. Louis?"
-      content : "If you're looking for adventures and entertainment in the heart of St. Louis, the city also hosts music, theater, and art venues. Beyond the iconic **[Gateway Arch](https://www.gatewayarch.com/)**, visitors can take a walk through the **[Aquarium at Union Station](https://www.stlouisaquarium.com/tickets?gclid=CjwKCAjwq-WgBhBMEiwAzKSH6A4HgQTba7LB6xc2Zrd-D85KzpNoH6Xku9EpfEokz1xv-MB980lAAhoCAIcQAvD_BwE)**, the **[St. Louis Zoo](https://stlzoo.org/)**, and the **[Missouri Botanical Garden](https://www.missouribotanicalgarden.org/)**, or join a sightseeing tour. The city also offers a variety of dining options, microbreweries, and brewpubs. 
-<br><br>
-Check out the **[Explore St. Louis](https://explorestlouis.com/)** website to better identify what might interest you!"
+      content : |
+        If you're looking for adventures and entertainment in the heart of St. Louis, the city also hosts music, theater, and art venues. Beyond the iconic **[Gateway Arch](https://www.gatewayarch.com/)**, visitors can take a walk through the **[Aquarium at Union Station](https://www.stlouisaquarium.com/tickets?gclid=CjwKCAjwq-WgBhBMEiwAzKSH6A4HgQTba7LB6xc2Zrd-D85KzpNoH6Xku9EpfEokz1xv-MB980lAAhoCAIcQAvD_BwE)**, the **[St. Louis Zoo](https://stlzoo.org/)**, and the **[Missouri Botanical Garden](https://www.missouribotanicalgarden.org/)**, or join a sightseeing tour. The city also offers a variety of dining options, microbreweries, and brewpubs.  
+        
+        Check out the **[Explore St. Louis](https://explorestlouis.com/)** website to better identify what might interest you!
