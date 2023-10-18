@@ -11,7 +11,7 @@ banner:
 
 ########################## timer #################################
 timer:
-  enable : true
+  enable : false
   title : "**Counting down the** <br> days to the conference"
   # set timer
   year: "2023"
@@ -26,14 +26,24 @@ event:
   title : "Scale up your STEM!"
   image_back : "images/about/purple_beakers.jpg"
   image_front : "images/about/equation_writing.jpg"
-  content : "**Please note that early registration pricing has been extended until September 27th!**
-<br><br>
-The 2023 Joint Midwest-Great Lakes Regional Meeting of the American Chemical Society (MWGLRM 2023) will be held Wednesday to Saturday, October 18-21, 2023, in St. Louis, Missouri. Co-hosts for this meeting are the St. Louis and East Central Illinois Sections of the ACS. The venue will be the St. Charles Convention Center.
-<br><br>
-The theme for the meeting is “Scale Up Your STEM”, and will feature plenary speakers, exciting technical sessions and special symposia, poster sessions, regional awards, social events, and a large vendor expo.  In addition, there will be special undergraduate programming, chemistry education workshops for high school teachers, and events sponsored by the local Younger Chemists Committees and the Minority Affairs Committees. It is a great opportunity for undergraduate and graduate students to present their research and get to know the Midwest and Great Lakes chemistry communities.
-"
+  content : |
+    **We have on-site registration every day!** 
+
+    On-site registration will be in the Lower Lobby of the Convention center at the following times:
+    {{< bootstrap-table "table table-striped table-sm" >}}
+    | Day              |                Time |
+    | :--------------- | ------------------: |
+    | October 18, 2023 |  4:30 pm - 9:00 pm |
+    | October 19, 2023 |  7:00 am - 9:00 pm |
+    | October 20, 2023 |  7:00 am - 1:00 pm |
+    | October 21, 2023 | 9:00 am - 12:00 pm |
+    {{< /bootstrap-table >}}
+
+    The 2023 Joint Midwest-Great Lakes Regional Meeting of the American Chemical Society (MWGLRM 2023) will be held Wednesday to Saturday, October 18-21, 2023, in St. Louis, Missouri. Co-hosts for this meeting are the St. Louis and East Central Illinois Sections of the ACS. The venue will be the St. Charles Convention Center.  
+
+    The theme for the meeting is “Scale Up Your STEM”, and will feature plenary speakers, exciting technical sessions and special symposia, poster sessions, regional awards, social events, and a large vendor expo.  In addition, there will be special undergraduate programming, chemistry education workshops for high school teachers, and events sponsored by the local Younger Chemists Committees and the Minority Affairs Committees. It is a great opportunity for undergraduate and graduate students to present their research and get to know the Midwest and Great Lakes chemistry communities.  
   button:
-    enable : true
+    enable : false
     label : "Register"
     link : "https://web.cvent.com/event/cbd70f70-5bd0-4d61-a087-97b8ae0f4b57/summary."
 
