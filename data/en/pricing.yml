@@ -10,7 +10,7 @@ timer:
     | October 18, 2023 |  4:30 pm - 9:00 pm |
     | October 19, 2023 |  7:00 am - 9:00 pm |
     | October 20, 2023 |  7:00 am - 1:00 pm |
-    | October 21, 2023 | 9:00 am - 12:00 pm |
+    | October 21, 2023 | 8:00 am - 12:00 pm |
     {{< /bootstrap-table >}}
   # timer value comes from "homepage.yml" file
 
